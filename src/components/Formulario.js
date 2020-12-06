@@ -8,7 +8,7 @@ const Formulario = ({setCategoria}) => {
 
     const OPCIONES = [
         {value: 'general', label: 'General'},
-        {value: 'busines', label: 'Negocios'},
+        {value: 'business', label: 'Negocios'},
         {value: 'entertainment', label: 'Entretenimiento'},
         {value: 'health', label: 'Salud'},
         {value: 'science', label: 'Ciencia'},
